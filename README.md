@@ -1,1 +1,1 @@
-The NovaIM Alpha site. All links are fake, and they lead to google.com. This is the least that I can do.
+The Official NovaIM GitHub repo! Download the latest clients of this AIM revival and contribute to this project! I'll be happy for an each contributor this project gets. Thanks for support!
